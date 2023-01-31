@@ -72,3 +72,465 @@ table{
     text-align: center;
     background-color: white;
 }
+
+.eneMax{
+    background-color: #FF6400;
+}
+
+.febMax{
+    background-color: #FF6400;
+}
+
+.marMax{
+    background-color: #FF3C00;
+}
+
+.abrMax{
+    background-color: #FF3C00;
+}
+
+.mayMax{
+    background-color: #FF2800;
+}
+
+.junMax{
+    background-color: #FF0000;
+}
+
+.julMax{
+    background-color: #FF2800;
+}
+
+.agoMax{
+    background-color: #FF2800;
+}
+
+.sepMax{ 
+    background-color: #FF1400;
+}
+
+.octMax{
+    background-color: #FF2800;
+}
+
+.novMax{
+    background-color: #FF5000;
+}
+
+.dicMax{
+    background-color: #FF5000;
+}
+
+.anualMax{
+    background-color: #FF0000;
+}
+
+
+
+
+
+
+
+
+.eneMaxMed{
+    background-color: #FFA500;
+}
+
+.febMaxMed{
+    background-color: #FFA500;
+}
+
+.marMaxMed{
+    background-color: #FFA500;
+}
+
+.abrMaxMed{
+    background-color: #FF9900;
+}
+
+.mayMaxMed{
+    background-color: #FF9900;
+}
+
+.junMaxMed{
+    background-color: #FF8C00;
+}
+
+.julMaxMed{
+    background-color: #FF6400;
+}
+
+.agoMaxMed{
+    background-color: #FF6400;
+}
+
+.sepMaxMed{ 
+    background-color: #FF6400;
+}
+
+.octMaxMed{
+    background-color: #FF8C00;
+}
+
+.novMaxMed{
+    background-color: #FF9900;
+}
+
+.dicMaxMed{
+    background-color: #FFA500;
+}
+
+.anualMaxMed{
+    background-color: #FF9900;
+}
+
+
+
+
+
+
+
+.eneMed{
+    background-color: #FFFF99;
+}
+
+.febMed{
+    background-color: #FFCC66;
+}
+
+.marMed{
+    background-color: #FFCC66;
+}
+
+.abrMed{
+    background-color: #FFCC66;
+}
+
+.mayMed{
+    background-color: #FFA500;
+}
+
+.junMed{
+    background-color: #FF9900;
+}
+
+.julMed{
+    background-color: #FF8C00;
+}
+
+.agoMed{
+    background-color: #FF8C00;
+}
+
+.sepMed{ 
+    background-color: #FF9900;
+}
+
+.octMed{
+    background-color: #FF9900;
+}
+
+.novMed{
+    background-color: #FFCC66;
+}
+
+.dicMed{
+    background-color: #FFCC66;
+}
+
+.anualMed{
+    background-color: #FFA500;
+}
+
+
+
+
+
+
+
+.eneMinMed{
+    background-color: #FFFFCC;
+}
+
+.febMinMed{
+    background-color: #FFFFCC;
+}
+
+.marMinMed{
+    background-color: #FFFF99;
+}
+
+.abrMinMed{
+    background-color: #FFFF99;
+}
+
+.mayMinMed{
+    background-color: #FFCC66;
+}
+
+.junMinMed{
+    background-color: #FFA500;
+}
+
+.julMinMed{
+    background-color: #FF9900;
+}
+
+.agoMinMed{
+    background-color: #FF9900;
+}
+
+.sepMinMed{ 
+    background-color: #FFA500;
+}
+
+.octMinMed{
+    background-color: #FFCC66;
+}
+
+.novMinMed{
+    background-color: #FFFF99;
+}
+
+.dicMinMed{
+    background-color: #FFFFCC;
+}
+
+.anualMinMed{
+    background-color: #FFCC66;
+}
+
+
+
+
+
+
+
+.eneMin{
+    background-color: #B4C8FF;
+}
+
+.febMin{
+    background-color: #DCF0FF;
+}
+
+.marMin{
+    background-color: #F0FFFF;
+}
+
+.abrMin{
+    background-color: #F0FFFF;
+}
+
+.mayMin{
+    background-color: #FFFFFF;
+}
+
+.junMin{
+    background-color: #FFFFCC;
+}
+
+.julMin{
+    background-color: #FFFFCC;
+}
+
+.agoMin{
+    background-color: #FFFFCC;
+}
+
+.sepMin{ 
+    background-color: #FFFFCC;
+}
+
+.octMin{
+    background-color: #FFFFFF;
+}
+
+.novMin{
+    background-color: #DCF0FF;
+}
+
+.dicMin{
+    background-color: #C8DCFF;
+}
+
+.anualMin{
+    background-color: #B4C8FF;
+}
+
+
+
+
+
+
+
+
+.enePrecip{
+    background-color: #7474FF;
+}
+
+.febPrecip{
+    background-color: #7474FF;
+}
+
+.marPrecip{
+    background-color: #9494FF;
+}
+
+.abrPrecip{
+    background-color: #7474FF;
+}
+
+.mayPrecip{
+    background-color: #8282FF;
+}
+
+.junPrecip{
+    background-color: #B0B0FF;
+}
+
+.julPrecip{
+    background-color: #B0B0FF;
+}
+
+.agoPrecip{
+    background-color: #B0B0FF;
+}
+
+.sepPrecip{ 
+    background-color: #9494FF;
+}
+
+.octPrecip{
+    background-color: #6666FF;
+}
+
+.novPrecip{
+    background-color: #4646FF;
+}
+
+.dicPrecip{
+    background-color: #6666FF;
+}
+
+.anualPrecip{
+    background-color: #8282FF;
+}
+
+
+
+
+
+
+
+
+.enePrecipD{
+    background-color: #508CFF;
+}
+
+.febPrecipD{
+    background-color: #508cff;
+}
+
+.marPrecipD{
+    background-color: #508cff;
+}
+
+.abrPrecipD{
+    background-color: #508cff;
+}
+
+.mayPrecipD{
+    background-color: #508cff;
+}
+
+.junPrecipD{
+    background-color: #A0C8F0;
+}
+
+.julPrecipD{
+    background-color: #A0C8F0;
+}
+
+.agoPrecipD{
+    background-color: #A0C8F0;
+}
+
+.sepPrecipD{ 
+    background-color: #A0C8F0;
+}
+
+.octPrecipD{
+    background-color: #508CFF;
+}
+
+.novPrecipD{
+    background-color: #508CFF;
+}
+
+.dicPrecipD{
+    background-color: #508CFF;
+}
+
+.anualPrecipD{
+    background-color: #508CFF;
+}
+
+
+
+
+
+
+
+
+.eneSol{
+    background-color: #A89F73;
+}
+
+.febSol{
+    background-color: #B3A973;
+}
+
+.marSol{
+    background-color: #BEB271;
+}
+
+.abrSol{
+    background-color: #C9BB6D;
+}
+
+.maySol{
+    background-color: #D3C368;
+}
+
+.junSol{
+    background-color: #DCCB61;
+}
+
+.julSol{
+    background-color: #E5D357;
+}
+
+.agoSol{
+    background-color: #E5D357;
+}
+
+.sepSol{ 
+    background-color: #D3C368;
+}
+
+.octSol{
+    background-color: #BEB271;
+}
+
+.novSol{
+    background-color: #A89F73;
+}
+
+.dicSol{
+    background-color: #9B9471;
+}
+
+.anualSol{
+    background-color: #B3A973;
+}
