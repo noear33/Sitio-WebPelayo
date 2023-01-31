@@ -7,15 +7,22 @@ body{
 }
 p{
     text-align: justify;
+    margin-top: 10px;
+    font-size: 16px;
+    margin: 10px;
     color: black
 }
 h1{
     background-color: red;
     color: white;
+    text-align: center;
+    font-size: 3em;
+    
 }
 h2{
     background-color: red;
     color: black;
+    
 }
 h3{
     background-color: white;
@@ -30,19 +37,38 @@ div.toc{
 }
 img.mapa{
     
-    margin-left: 30%;
+    margin-left: 35%;
+    border:1px solid black;
 }
 
 img.bandera{
     margin-left: 10%;
+    margin-bottom: 3%;
 }
 
-img.sporting{
+img.gijon{
     margin-left: 45%;
+}
+
+img.rios{
+    margin-top: 0px;
+    margin-left: 10px;
+    float: right;
+}
+
+.container{
+    display: flex;
+    justify-content: left;
+}
+
+img.medieval{
+    margin: 10px;
+    float: left;
 }
 
 table{
     color: black;
     margin-left: 30%;
     text-align: center;
+    background-color: white;
 }

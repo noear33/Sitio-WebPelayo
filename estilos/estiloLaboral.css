@@ -12,6 +12,8 @@ p{
 h1{
     background-color: red;
     color: white;
+    text-align: center;
+    font-size: 3em;
 }
 h2{
     background-color: red;
@@ -27,4 +29,23 @@ div.toc{
             color: #cc7a00;
             margin-left: 35%;
             margin-right:48%;
+}
+
+img.puerta{
+    margin: 5px;
+    float: right;
+}
+
+img.Torre{
+    margin: 10px;
+}
+
+.container1{
+    display: flex;
+    justify-content: right;
+}
+
+.container2{
+    display: flex;
+    justify-content: left;
 }
