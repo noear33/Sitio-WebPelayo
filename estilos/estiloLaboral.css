@@ -49,3 +49,15 @@ img.Torre{
     display: flex;
     justify-content: left;
 }
+
+.container3{
+    display: flex;
+    justify-content: right;
+}
+
+img.laboralImg{
+    width: 400px;
+    height: 250px;
+    margin: 10px;
+    border:10px solid #D7B284;
+}
