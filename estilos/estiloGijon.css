@@ -6,6 +6,7 @@ body{
     margin-right:1.5%;
 }
 p{
+    font-size: 16px;
     text-align: justify;
     margin-top: 10px;
     font-size: 16px;
@@ -18,15 +19,18 @@ h1{
     text-align: center;
     font-size: 3em;
     
+    
 }
 h2{
     background-color: red;
     color: black;
+    font-size: 1.5em;
     
 }
 h3{
     background-color: white;
     color: black;
+    font-size: 1em;
 }
 div.toc{
     border: 10px outset orange;
