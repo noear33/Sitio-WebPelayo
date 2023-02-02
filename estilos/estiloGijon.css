@@ -56,7 +56,7 @@ img.gijon{
 
 img.rios{
     margin-top: 0px;
-    margin-left: 10px;
+    margin-left: 0px;
     float: right;
 }
 
@@ -67,6 +67,7 @@ img.rios{
 
 img.medieval{
     margin: 10px;
+    margin-bottom: 0px;
     float: left;
 }
 
@@ -75,6 +76,10 @@ table{
     margin-left: 30%;
     text-align: center;
     background-color: white;
+}
+figcaption{
+    color: rgba(0, 0, 0, 0.61);;
+    margin-left: 10px;
 }
 
 

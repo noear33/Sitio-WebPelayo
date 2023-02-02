@@ -65,3 +65,8 @@ img.laboralImg{
     margin: 10px;
     border:10px solid #D7B284;
 }
+
+figcaption{
+    margin-left: 5px;
+    color: rgba(0, 0, 0, 0.61);
+}
