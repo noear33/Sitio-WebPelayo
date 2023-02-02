@@ -34,10 +34,10 @@ h3{
 }
 div.toc{
     border: 10px outset orange;
-            background-color: #d3d3d3;
-            color: #cc7a00;
-            margin-left: 35%;
-            margin-right:45%;
+    background-color: #d3d3d3;
+    color: #cc7a00;
+    margin-left: 35%;
+    margin-right:45%;
 }
 img.mapa{
     
@@ -76,6 +76,10 @@ table{
     text-align: center;
     background-color: white;
 }
+
+
+
+
 
 .eneMax{
     background-color: #FF6400;
